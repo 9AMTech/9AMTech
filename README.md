@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=9amtech&label=Profile%20views&color=0e75b6&style=flat" alt="9amtech" /> </p>
 
-- 🔭 I’m currently working on [CV-Site](https://github.com/9AMTech/cv-site)
+- 🔭 I’m currently working on [Memory-Game](https://github.com/9AMTech/memory-game)
 
 - 🌱 I’m currently learning **React, Contributing to Open Source Projects**
 
