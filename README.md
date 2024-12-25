@@ -4,9 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=9amtech&label=Profile%20views&color=0e75b6&style=flat" alt="9amtech" /> </p>
 
-- 🔭 I’m currently working on Joja-Mart!
+- 🔭 I’m currently working on setting up my own VPS with Coolify!
 
-- 🌱 I’m currently learning **React, Contributing to Open Source Projects**
+- 🌱 I’m currently learning JSP
 
 - 👨‍💻 My completed projects are available at [ahmadmughrabi.com](https://ahmadmughrabi.com)
 
