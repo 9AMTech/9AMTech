@@ -4,13 +4,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=9amtech&label=Profile%20views&color=0e75b6&style=flat" alt="9amtech" /> </p>
 
-- 🔭 I’m currently working on setting up my own VPS with Coolify!
+- 🔭 I’m currently building [Box of Tools](https://boxof.tools)!
 
-- 🌱 I’m currently learning JSP
+- 🌱 I'm currently learning the newest AI Trends and SEO!
 
 - 👨‍💻 My completed projects are available at [ahmadmughrabi.com](https://ahmadmughrabi.com)
 
-- 📫 How to reach me **itdoesntchange@gmail.com**
+- 📫 How to reach me **9amtechnology@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
